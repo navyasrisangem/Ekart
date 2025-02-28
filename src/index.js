@@ -4,11 +4,6 @@ import reportWebVitals from './reportWebVitals';
 import '../node_modules/bootstrap/dist/css/bootstrap.css';
 import '../node_modules/bootstrap-icons/font/bootstrap-icons.css';
 import bootstrap from 'bootstrap';
-import { FetchHookDemo } from './components/hooks-demo/fetch-hook-demo';
-import { SortHookDemo } from './components/hooks-demo/sort-hook-demo';
-import { FilterHookDemo } from './components/hooks-demo/filter-hook-demo';
-import { HookDemo } from './components/hooks-demo/hook-demo';
-import { ContextDemo } from './components/hooks-demo/use-context-demo';
 import { Fakestore } from './components/fakestore';
 
 
