@@ -44,7 +44,7 @@ export function Fakestore() {
         <div className="container-fluid">
             <header className="bg-light d-flex justify-content-between p-3 mt-3">
                 <div><h3>Fakestore.</h3></div>
-                <div>
+                <div className="d-none d-sm-block">
                     <span><a>Home</a></span>
                     <span className="mx-4"><a>Electronics</a></span>
                     <span><a>Jewellery</a></span>
